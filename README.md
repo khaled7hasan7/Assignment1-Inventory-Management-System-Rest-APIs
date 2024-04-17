@@ -3,7 +3,6 @@ Assignment+No1-2024 web serves
 
 
 
-
 In this homework assignment, we have developed an API specification using the OpenAPI Specification version 3.1.0 for an inventory management system. The API is designed to facilitate the management of various entities such as products, suppliers, store items, and stores within the system. The OpenAPI Specification provides a standardized and machine-readable format to describe RESTful APIs, making it easier for developers to understand and interact with the API endpoints.
 
 Throughout the development process, we have meticulously defined the endpoints, request and response payloads, HTTP methods, and status codes for each operation. This ensures that the API follows industry best practices and is easy to integrate into existing systems or develop client applications against.
